@@ -45,8 +45,8 @@ def loop():
 		""")
 
 	print("""
-		1. Confirmed case and deaths world wide
-		2. Confirmed case and deaths in your country eg.(PH)
+		1. Confirmed cases and deaths world wide
+		2. Confirmed cases and deaths in your country eg.(PH)
 		3. Quit
 		""")
 	userInput = input("Please Pick Using The Number Before The Operation")
